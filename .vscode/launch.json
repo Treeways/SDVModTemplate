@@ -1,0 +1,11 @@
+{
+        "configurations": [
+                {
+                        "type": "coreclr",
+                        "name": "Launch",
+                        "request": "launch",
+                        "program": "~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Stardew Valley/StardewModdingAPI",
+                        "preLaunchTask": "Build"
+                }
+        ]
+}
