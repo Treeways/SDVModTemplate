@@ -1,0 +1,10 @@
+{
+        "Name": "SDV Mod Template",
+        "Author": "Treeways",
+        "Version": "1.0.0",
+        "Description": "Initial mod template",
+        "UniqueID": "Treeways.SDVModTemplate",
+        "EntryDll": "SDVModTemplate.dll",
+        "MinimumApiVersion": "3.0.0",
+        "UpdateKeys": []
+}
