@@ -2,10 +2,10 @@
 
 #####
 # Enter your project's current name here.
-CURRENT_MOD_NAME="YourModNameHere"
+CURRENT_MOD_NAME="SDVModTemplate"
 
 # Enter your new project name here.
-MOD_NAME="Test"
+MOD_NAME="YourProjectNameHere"
 #####
 
 
